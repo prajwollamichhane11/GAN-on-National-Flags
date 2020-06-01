@@ -10,7 +10,7 @@
 
 <h2>GAN Training</h2>
 The Generator output for the input noisy images are:
-<li>Fig Size=(2,2)<br><img src="preTest.gif"></li>
-<li>Fig Size=(8,8)<br><img src="gifff.gif"></li>
+<li>Fig Size=(2,2)<br><img src="./GIFS/preTest.gif"></li>
+<li>Fig Size=(8,8)<br><img src="./GIFS/gifff.gif"></li>
 
 
