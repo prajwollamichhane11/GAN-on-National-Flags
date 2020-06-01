@@ -14,7 +14,7 @@ The Generator output for the input noisy images are:
 <li>Fig Size=(8,8)<br><img src="./GIFS/gifff.gif"></li>
 
 <h2>References</h2>
-1. https://www.tensorflow.org/tutorials/generative/dcgan
-2. https://towardsdatascience.com/generate-anime-style-face-using-dcgan-and-explore-its-latent-feature-representation-ae0e905f3974
+<p>1. https://www.tensorflow.org/tutorials/generative/dcgan</p><br>
+<p>2. https://towardsdatascience.com/generate-anime-style-face-using-dcgan-and-explore-its-latent-feature-representation-ae0e905f3974</p><br>
 
 
